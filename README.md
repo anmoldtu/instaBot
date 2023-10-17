@@ -17,7 +17,7 @@ The features of the bot are :
  <li>Get Following of a user</li>
  <li>Get following that don't follow you</li>
  <li>Find popular hashtags for a particular keyword</li>
- </ul>
+</ol>
 
-# License
+## License
 MIT
