@@ -1,3 +1,6 @@
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # instaBot
 This is an Instagram Bot (Automation Tool) created using Selenium and Python.
 
@@ -15,3 +18,6 @@ The features of the bot are :
  <li>Get following that don't follow you</li>
  <li>Find popular hashtags for a particular keyword</li>
  </ul>
+
+# License
+MIT
